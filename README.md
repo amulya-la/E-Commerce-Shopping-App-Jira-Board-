@@ -1,6 +1,5 @@
 # E-Commerce-Shopping-App-Jira-Board-
 ​Agile QA test management and defect tracking board for an E-Commerce Shopping App (ESA). Features user stories, acceptance criteria, and bug reports. 
-  # E-Commerce Shopping App — QA Test Management Board
 
 This repository links directly to my live **Jira Software** board, where I managed end-to-end Quality Assurance, user stories, acceptance criteria, and defect tracking for an E-Commerce Shopping App.
 
